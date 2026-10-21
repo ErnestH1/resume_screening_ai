@@ -1,0 +1,24 @@
+# Resume Screening Bot - Python Dependencies
+# All packages verified as actively used in the application
+
+# Core Framework
+streamlit==1.46.0         # Web application framework
+
+# Data Processing
+pandas==2.3.0             # Data manipulation and analysis
+numpy==2.3.0              # Numerical computing
+
+# Machine Learning & NLP
+scikit-learn==1.7.0       # Machine learning library for TF-IDF and similarity
+nltk==3.9.1               # Natural language processing toolkit
+
+# Document Processing
+PyPDF2==3.0.1             # PDF file reading
+pdfplumber==0.11.7        # Enhanced PDF text extraction
+python-docx==1.2.0        # Microsoft Word document processing
+
+# Data Visualization
+matplotlib==3.10.3        # Basic plotting and charts
+seaborn==0.13.2           # Statistical data visualization
+plotly==6.1.2             # Interactive charts and graphs
+wordcloud==1.9.4          # Word cloud generation
